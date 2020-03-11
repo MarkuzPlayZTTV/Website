@@ -1,3 +1,6 @@
+
+<html>
+  
 # Website
 Hello my friends
   <style>
@@ -5,3 +8,5 @@ Hello my friends
   _config.yml
    }
   </style>
+  
+</html>
